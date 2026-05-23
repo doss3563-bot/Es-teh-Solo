@@ -1,4 +1,4 @@
-const CACHE_NAME = 'esteh-solo-v2';
+const CACHE_NAME = 'esteh-solo-v3';
 const ASSETS = [
   '/',
   '/index.html',
