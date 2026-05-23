@@ -2,7 +2,9 @@ const CACHE_NAME = 'esteh-solo-v2';
 const ASSETS = [
   '/',
   '/index.html',
-  '/manifest.json'
+  '/manifest.json',
+  '/icon-192.png',
+  '/icon-512.png'
 ];
 
 // Install — cache semua file
